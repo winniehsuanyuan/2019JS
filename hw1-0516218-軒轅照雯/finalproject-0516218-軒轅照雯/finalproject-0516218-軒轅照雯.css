@@ -1,0 +1,42 @@
+/* purpose: finalproject-0516218-軒轅照雯.html */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #341539;
+}
+
+h1{ /*Maglev Hockey*/
+	font-family: "phosphate", "Nanum Pen Script", "Helvetica", sans-serif;
+	font-size: 3em;
+	font-weight: lighter;
+	color: white;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+h2{ /*time & restart*/
+	font-family:  "Krungthep", "Helvetica", sans-serif;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+}
+
+#container{ /*plane*/
+	width:  900px;
+	height: 500px;
+	margin-top: 2em;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#restart_div{ /*restart*/
+	margin-top: 10px;
+}
+
+#restart_h2{ /*restart*/
+	color: rgba(255, 255, 255, 0.3);
+}

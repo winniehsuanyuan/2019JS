@@ -1,0 +1,84 @@
+/* purpose: hw3-0516218-軒轅照雯.html */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #f7d0c9;
+}
+
+h1{ /*bouncing balls*/
+	font-family: "Nanum Pen Script", "Helvetica", sans-serif;
+	font-size: 2.5em;
+	color: white;
+	background-color: #dc9788;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+#container{
+	width:500px;
+	height:500px;
+	margin-top: 4em;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #fcefed;
+	position: relative; 
+}
+
+.ball{
+	width:10px;
+	height:10px;
+	position: absolute;
+}
+
+/*background decoration*/
+.circle{ 
+	background-color: rgba(255, 255, 255, 0.3);
+	position: absolute;
+}
+
+#c0{
+	width:170px;
+	height:170px;
+	border-radius: 85px;
+    top:100px;
+	left:200px;
+}
+#c1{
+	width:100px;
+	height:100px;
+	border-radius: 50px;
+    top:200px;
+	left:150px;
+}
+#c2{
+	width:300px;
+	height:300px;
+	border-radius: 150px;
+    bottom:-50px;
+	left:-50px;
+}
+#c3{
+	width:150px;
+	height:150px;
+	border-radius: 75px;
+    bottom:50px;
+	right:200px;
+}
+#c4{
+	width:80px;
+	height:80px;
+	border-radius: 50px;
+    bottom:140px;
+	right:155px;
+}
+#c5{
+	width:300px;
+	height:300px;
+	border-radius: 150px;
+    top:70px;
+	right:-50px;
+}

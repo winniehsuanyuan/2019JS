@@ -1,0 +1,72 @@
+/* purpose: hw4-0516218-軒轅照雯.html */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #0D4FA6;
+}
+
+h1{ /*Breakout*/
+	font-family: "phosphate", "Nanum Pen Script", "Helvetica", sans-serif;
+	font-size: 3em;
+	font-weight: lighter;
+	color: white;
+	text-align: center;
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+h2{ /*score, combo, gameover*/
+	font-family:  "Krungthep", "Helvetica", sans-serif;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+}
+
+#score_div{
+ 	position: absolute;
+	top:130px;
+	left:100px;
+}
+
+#combo_div{
+ 	position: absolute;
+	top:130px;
+	right:100px;
+}
+
+#comboValue{
+   font-size: 3em;
+}
+
+#container{
+	margin-top: 2em;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #85BFF2;
+	position: relative; 
+}
+
+.ball{
+	position: absolute;
+	border: 2px solid black;
+}
+
+.brick{
+	position: absolute;
+    border: 2px solid black;
+}
+
+.paddle{
+	position: absolute;
+    border: 2px solid black;
+}
+
+#gameover_div, #complete_div{
+	position: absolute;
+	top:250px;
+	width: 100%;
+}
+

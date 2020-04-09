@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Homework 5</title>
+    <link rel="stylesheet" type="text/css" href="demo.css">
+    <script src="demo.js"></script>
+</head>
+<body>
+    <h1>Music Player</h1>
+    <table>
+        <tr>
+            <th>Order</th>
+            <th>Song Name</th>
+            <th>File Name</th>
+            <th>Action</th>
+        </tr>
+        {{content}}
+		<tr>
+			<form action="/songInsert" method="post" enctype="multipart/form-data">
+			<td>&nbsp;</td>
+			<td>
+				<input type="text" name="songName" placeholder="song name">
+			</td>
+			<td>
+                File:<input type="file" name="songFile">
+			</td>
+			<td>
+				<input type="submit" value="Add a song">
+			</td>
+			</form>
+		</tr>
+    </table>
+    <audio id="mp3player" src="" controls="controls" autoplay="autoplay"></audio>
+    <div id="ball_1"></div>
+    <div id="vertical_2"></div>
+    <div id="horizontal_3"></div>
+    <div id="vertical_4"></div>
+    <div id="ball_5"></div>
+</body>
+</html>

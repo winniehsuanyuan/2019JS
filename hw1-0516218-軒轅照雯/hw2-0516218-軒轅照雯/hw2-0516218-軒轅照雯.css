@@ -1,0 +1,73 @@
+/* purpose: hw2-0516218-軒轅照雯.html */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Helvetica", sans-serif;
+	color: #ffffff;
+}
+
+h1{
+	font-family: "Bradley Hand", "Helvetica", sans-serif;
+	background-color: #006374;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2{
+	font-family: "Bradley Hand", "Helvetica", sans-serif;
+	text-align: center;
+	font-weight: normal;
+}
+
+body {
+	background-color: #4abdac;
+}
+
+p{	
+	padding-top: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+input#b{
+	cursor: pointer;
+	background-color: #f7b733;
+	border-radius: 20px;
+	padding: 10px;
+	font-size: 1em;
+	font-family: "Bradley Hand", "Helvetica", sans-serif;
+}
+
+input#b:hover{
+	background-color: #FF9900;
+}
+
+.cb{
+	cursor: pointer;
+	margin-left: 10px;
+	font-size: 20px; /*change size of the checkbox*/
+}
+
+table{
+	width: 250px;
+	height: 175px;
+	margin: 10px auto 10px auto;	
+	text-align: center;	
+	background-color: #f7b733;
+	border: solid 1px #fc4a1a;
+}
+
+div#table_container{
+   width: 900px;       /*center*/
+   margin-right: auto; /*center*/
+   margin-left: auto;  /*center*/
+   margin-top: 50px;
+   display: grid;
+   grid-template-columns: 300px 300px 300px;
+ }
+ 
+.card_title{
+	background-color: #fc4a1a;
+	text-align: center;
+}

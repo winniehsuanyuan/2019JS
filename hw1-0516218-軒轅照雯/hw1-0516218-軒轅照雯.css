@@ -1,0 +1,176 @@
+/* purpose: hw1-0516218-軒轅照雯.html */
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: "Geneva", "微軟正黑體", sans-serif; /*Helvetica, Geneva, Verdana, Arial, Univers*/
+ }
+
+h1{  /*My homepage*/
+	float: left;
+	background-color: #0f162f;
+    padding-right: 13em;
+    padding-left: 2em;
+	padding-top: 0.5em;
+	padding-bottom: 0.3em;
+	font-family: "Lucida Grande";
+	font-size: 1.5em;
+	color: #825f58;
+}
+
+nav{
+    background-color: #0f162f;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul li{ /*nav horizontal*/
+	display: inline-block;
+}
+
+nav a{
+	text-decoration: none;
+	color: #825f58;
+	font-family: "Skia";
+	font-size: 1em;
+	/*padding: 1em 7em 0.9em 2em;*/
+	margin-right: 5em;
+	margin-left: 2em;
+}
+
+nav a:hover{  
+	color: #ffffff;
+	/*border-bottom: 2px solid rgba(255, 255, 255);*/
+}
+
+body{
+	clear: left;
+	background-color: #1d284c;
+}
+
+div#bg{ /*top part bg*/
+	height: 720px;
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: scroll;	
+}
+
+h2{ /*bg word:WINNIE HSUAN YUAN*/
+	font-family: "Lucida Grande";
+	color: white;
+	font-size: 3.5em;
+	position: absolute;
+	top:450px;
+	right:100px;
+}
+
+div#introduction{ /*down part bg*/
+    background-image: radial-gradient(farthest-side circle at 1500px 1000px, #825f58, #1d284c 50%);
+}
+
+article{ /*words+img*/
+    width: 70%;
+    padding-top: 6em;
+    padding-bottom: 6em; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div img{ /*mypic*/
+	padding: 3em 4em;
+	float: left;
+}
+
+dl{ /*words*/
+    padding: 5em; 
+}
+
+dl dt{ /*introduction title:ABOUT ME*/
+	font-family: "Lucida Grande";
+	font-weight: bold;
+	font-size: 3.5em;
+}
+
+dl dt#about{
+	color: #825f58;
+	padding-bottom:  0.5em;
+}
+
+dl dt#me{
+	color: #ffffff;
+}
+
+dl dd{ /*introduction content*/
+	font-family: "Lucida Grande";
+    position: relative;
+	top: 40px;
+	left: 150px;
+	color: #ffffff;
+ 	font-weight: normal;
+ 	font-size: 1.2em;
+ 	padding: 0.3em;
+ }
+
+ dl dd#name{ /*軒轅照雯Winnie*/
+	color: #825f58;
+	font-size: 1.5em;
+}
+
+footer{
+ 	clear: left;
+ 	background-color: #0f162f;
+ 	padding: 0.5em;
+ 	color: #825f58;
+ 	font-size: 0.8em;
+ 	text-align: center;
+ }
+
+
+
+@media screen and (max-width: 600px){
+	
+	h1{ /*My homepage*/
+		float: none;
+		padding-left: 0em;
+		padding-right: 0em;
+		text-align: center;
+	}
+	
+	ul li{ /*nav vertical*/
+        display: block;
+        text-align: center;
+	}
+
+	nav a{
+		margin: 0em;
+	}
+
+    h2{ /*bg word:WINNIE HSUAN YUAN*/
+    	font-size: 2.5em;
+    	top: 550px;
+    	right: 30px;
+    }
+
+	div img{ /*my pic*/
+		float:none;
+		padding: 1em 2em;
+	}
+
+	dl{
+		padding: 2em;
+	}
+
+	dl dt#me{
+		padding-bottom: 0.5em;
+	}
+
+    dl dd{ /*introduction content*/
+    	position: static;
+    }
+}
