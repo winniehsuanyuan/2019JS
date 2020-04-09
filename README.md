@@ -1,17 +1,24 @@
 # 2019JSHW
 2019 NCTU JavaScript: 5 assignments + final project
-* Hw1 My Homepage - a simple homepage with links to Hw2, HW3, Hw4 and final project
+* Browser: Safari
 
-* Hw2 Magic Game 
-** Pick a number between 1~63, keep it in your mind and choose the cards that contain your number.
-** click the button and the guess of your number will be shown
+### Hw1 My Homepage 
+A simple homepage with links to About Me, Hw2, HW3, Hw4 and final project
 
-* HW3 Bouncing Balls -
+### Hw2 Magic Game
+A game that will guess the number in your mind
+* Pick a number between 1~63, keep it in your mind and choose the cards that contain your number.
+* Click the button and the guess of your number will be shown
 
-* Hw4 Breakout
-** use left and right keys to control the paddle 
-** you can get bonus points for combos
+### HW3 Bouncing Balls 
+* Every time you refresh the , there will be different numbers and colors of balls
 
-* HW5 Music Player - upload and delete songs
+### Hw4 Breakout
+* Use left and right keys to control the paddle 
+* You can get bonus points for combos
 
-* Final Project 
+### HW5 Music Player 
+* You can upload, delete or listen to songs
+* File names shouldn't include spaces
+
+### Final Project 
