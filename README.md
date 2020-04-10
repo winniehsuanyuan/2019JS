@@ -24,7 +24,7 @@ A game that will guess the number in your mind
 #### Setup
 1. Install Node.js from https://nodejs.org/en/
 2. Enter the directory and execute `demoNode.js`
-```shell
+```
 $ cd hw5-0516218-軒轅照雯/app
 $ node demoNode.js
 ```
