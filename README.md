@@ -22,13 +22,14 @@ A game that will guess the number in your mind
 ### Hw5 Music Player 
 * You can upload, delete or listen to songs
 * File names shouldn't include spaces
-##### setup
-1. NodeJS
+#### Setup
+1. Install Node.js from [https://nodejs.org/en/]
+2. Open your cmd and type
 ```
 $ cd hw5-0516218-軒轅照雯/app
 $ node demoApp.js
 ```
-open your browser and type:
+3. Open your browser and type in the URL bar
 ```
 local:8080
 ```
