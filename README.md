@@ -1,6 +1,6 @@
 # 2019JSHW
 2019 NCTU JavaScript: 5 assignments + final project
-* Environment : 
+* Environment : MacOS (13 inch)
 * Browser : Safari
 
 ### Hw1 My Homepage 
@@ -21,7 +21,7 @@ A game that will guess the number in your mind
 ### Hw5 Music Player 
 * You can upload, delete or listen to songs
 * File names shouldn't include spaces
-#### Setup
+> Setup
 1. Install Node.js from https://nodejs.org/en/
 2. Enter the directory and execute `demoNode.js`
 ```
@@ -32,3 +32,4 @@ $ node demoNode.js
 
 
 ### Final Project 
+see `hw1-0516218-軒轅照雯/final-0516218-軒轅照雯/0516218.pdf` for detail discription
