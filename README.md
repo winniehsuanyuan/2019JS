@@ -1,5 +1,5 @@
 # 2019JSHW
-2019 NCTU JavaScript: 5 assignments + final project
+2019 Fall NCTU JavaScript: 5 assignments + final project
 * Environment : MacOS (13 inch)
 * Browser : Safari
 
@@ -22,14 +22,13 @@ A game that will guess the number in your mind
 * You can upload, delete or listen to songs
 * File names shouldn't include spaces
 > Setup
-1. Install Node.js from https://nodejs.org/en/
+1. Install [Node.js](https://nodejs.org/en/)
 2. Enter the directory and execute `demoNode.js`
 ```
 $ cd hw5-0516218-軒轅照雯/app
 $ node demoNode.js
 ```
 3. Open your browser and type `local:8080` in the URL bar
-
 
 ### Final Project 
 see `hw1-0516218-軒轅照雯/final-0516218-軒轅照雯/0516218.pdf` for detail discription
