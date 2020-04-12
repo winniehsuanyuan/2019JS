@@ -31,4 +31,4 @@ $ node demoNode.js
 3. Open your browser and type `local:8080` in the URL bar
 
 ### Final Project 
-see `hw1-0516218-軒轅照雯/final-0516218-軒轅照雯/0516218.pdf` for detail discription
+see `hw1-0516218-軒轅照雯/final-0516218-軒轅照雯/0516218.pdf` for detail description
