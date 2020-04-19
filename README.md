@@ -6,9 +6,11 @@
 ### Hw1 My Homepage 
 A simple homepage with links to About Me, Hw2, HW3, Hw4 and Final Project <br>
 <img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/homepage.png" width="500" height="250">
+<img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/aboutme.png" width="500" height="250">
 
 ### Hw2 Magic Game
 A game that will guess the number in your mind
+<img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/hw2.png" width="500" height="250">
 
 ### Hw3 Bouncing Balls 
 * Every time you refresh the page, there will be different numbers and colors of balls
