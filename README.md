@@ -4,8 +4,8 @@
 * Browser : Safari
 
 ### Hw1 My Homepage 
-A simple homepage with links to About Me, Hw2, HW3, Hw4 and Final Project
-<img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/homepage.png" width="100" height="50">
+A simple homepage with links to About Me, Hw2, HW3, Hw4 and Final Project <br>
+<img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/homepage.png" width="500" height="250">
 
 ### Hw2 Magic Game
 A game that will guess the number in your mind
