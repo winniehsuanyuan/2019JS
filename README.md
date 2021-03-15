@@ -1,4 +1,4 @@
-# 2019JSHW
+# 2019JS
 2019 Fall NCTU JavaScript: 5 assignments + final project
 * Environment : MacOS (13 inch)
 * Browser : Safari
