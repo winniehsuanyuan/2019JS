@@ -6,7 +6,6 @@
 ### Hw1 My Homepage 
 A simple homepage with links to About Me, Hw2, HW3, Hw4 and Final Project <br>
 <img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/homepage.png" width="700" height="363">
-<img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/aboutme.png" width="700" height="363">
 
 ### Hw2 Magic Game
 A game that will guess the number in your mind <br>
