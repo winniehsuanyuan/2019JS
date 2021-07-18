@@ -1,4 +1,4 @@
-/* purpose: hw3-0516218-軒轅照雯.html */
+/* purpose: hw3-0516218.html */
 let container=document.createElement("div");
 container.id="container";
 document.body.appendChild(container);

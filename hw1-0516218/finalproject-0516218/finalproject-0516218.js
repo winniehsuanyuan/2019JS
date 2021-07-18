@@ -1,4 +1,4 @@
-/* purpose: finalproject-0516218-軒轅照雯.html */
+/* purpose: finalproject-0516218.html */
 "use strict"; 
 const planeHeight=500, planeWidth=900, planeRadius=20, mid_x=planeWidth/2, mid_y=planeHeight/2,
       holeWidth=150, 

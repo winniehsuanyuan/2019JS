@@ -1,4 +1,4 @@
-/* purpose: hw4-0516218-軒轅照雯.html */
+/* purpose: hw4-0516218.html */
 
 const brickCols=7, brickRows=5, 
       brickWidth=70, brickHeight=20, 
