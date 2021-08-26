@@ -31,11 +31,11 @@ A game that will guess the number in your mind <br>
 1. Install [Node.js](https://nodejs.org/en/)
 2. Enter the directory and execute `demoNode.js`
 ```
-$ cd hw5-0516218-軒轅照雯/app
+$ cd hw5-0516218/app
 $ node demoNode.js
 ```
 3. Open your browser and type `local:8080` in the URL bar
 
 ### Final Project 
-see `hw1-0516218-軒轅照雯/final-0516218-軒轅照雯/0516218.pdf` for detail description <br>
+see `hw1-0516218/final-0516218/0516218.pdf` for detail description <br>
 <img src="https://raw.githubusercontent.com/winniehsuanyuan/2019JSHW/master/screenshots/finalproject.png" width="700" height="363">
